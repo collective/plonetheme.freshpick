@@ -33,6 +33,4 @@ setup(name='plonetheme.freshpick',
       [z3c.autoinclude.plugin]
       target = plone
       """,
-      setup_requires=["PasteScript"],
-      paster_plugins=["ZopeSkel"],
       )
