@@ -1,6 +1,19 @@
 Changelog
 =========
 
+0.1.1 (unreleased)
+------------------
+
+- Updated Diazo theme zip file [macagua]
+
+- Fixed relatives paths for images into HTML layout [macagua]
+
+- Added manifest file for diazo theme and preview file [macagua]
+
+- Added more strings classifiers items for this package [macagua]
+
+- Updated information about this package [macagua]
+
 0.1.0 (2011-05-31)
 ------------------
 
