@@ -5,8 +5,8 @@ version = '0.1.0'
 
 setup(name='plonetheme.freshpick',
       version=version,
-      description="An installable Diazo theme for Plone 4.1",
-      long_description=open("README.txt").read() + "\n" +
+      description="An installable Diazo theme for Plone 4.1 or higher",
+      long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
@@ -28,7 +28,7 @@ setup(name='plonetheme.freshpick',
         "Topic :: Internet",
         "Topic :: Software Development :: Libraries :: Python Modules",
         ],
-      keywords='',
+      keywords='web zope plone theme diazo',
       author='Alex Clark',
       author_email='aclark@aclark.net',
       url='https://github.com/collective/plonetheme.freshpick',
