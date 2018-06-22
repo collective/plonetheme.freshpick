@@ -4,6 +4,8 @@ Changelog
 0.1.1 (unreleased)
 ------------------
 
+- Added the right license information for this package [macagua]
+
 - Added improvements about README file [macagua]
 
 - Updated Diazo theme zip file [macagua]
